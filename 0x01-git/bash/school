@@ -1,6 +1,8 @@
-i 
+i
 #!/bin/bash
-echo "The school is open!"
+echo  "ALX  School"
+
+
 
 
 
